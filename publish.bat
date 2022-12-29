@@ -1,4 +1,4 @@
-set SocketServerSrcFolder=C:\repos\socket-server
+set SocketServerSrcFolder=C:\repos\unifi-socket-server
 
 set SocketServerPublishFolder="\\vmware-host\Shared Folders\VMWare-Share\TestTools\Deploy\SocketServer\"
 
